@@ -1,45 +1,50 @@
 # WRO-Future-Engineers-2026
 Autonomous self-driving car for WRO Future Engineers 2026
 
-## Información del Equipo
+## Información del equipo
 Nombre del equipo:krabby-no-patty
-Integrantes:Caleb Jair Rosa Roman-Angelica Victoria Colon Berrios
+Integrantes:Caleb Jair Rosa Roman-Angelica Victoria Colon Berrios 
 Coach:Edward
+País / región:Puerto Rico
 
 ---
 
-## Descripción del Proyecto
+## Descripción del proyecto
 
-Este proyecto consiste en un vehículo autónomo diseñado para el reto WRO Future Engineers.
+Este proyecto consiste en un vehículo autónomo desarrollado para el reto WRO Future Engineers. El objetivo del robot es navegar de forma autónoma por la pista, evitando obstáculos y manteniendo estabilidad en el recorrido.
 
-El robot puede moverse de forma autónoma siguiendo la pista y evitando obstáculos.
-
----
-
-## Diseño Mecánico
-
-Aquí describimos el chasis del robot, las ruedas, los motores y el sistema de dirección.
+Nuestro enfoque se basa en el uso de sensores para detectar el entorno y algoritmos de control para ajustar la dirección y velocidad del vehículo.
 
 ---
 
-## Electrónica y Sensores
+## Diseño del robot
 
-Aquí explicamos qué controlador usamos y qué sensores tiene el robot.
+El robot está compuesto por tres sistemas principales:
 
----
+- Sistema mecánico (chasis, ruedas y dirección)
+- Sistema electrónico (controlador y sensores)
+- Sistema de software (algoritmos de navegación)
 
-## Arquitectura del Software
-
-Aquí explicamos cómo funciona el código del robot y cómo toma decisiones.
-
----
-
-## Decisiones de Ingeniería
-
-Aquí explicamos los problemas que tuvimos y cómo los resolvimos.
+Cada uno de estos sistemas se explica en detalle en la documentación.
 
 ---
 
-## Reproducibilidad
+## Documentación
 
-Aquí explicamos cómo otra persona puede construir nuestro robot usando esta documentación.
+- Diseño mecánico → docs/mobility.md  
+- Electrónica y sensores → docs/electronics.md  
+- Arquitectura del software → docs/software.md  
+- Decisiones de ingeniería → docs/engineering-decisions.md  
+- Guía de reproducción → docs/reproducibility.md  
+
+---
+
+## Imágenes del robot
+
+![Robot](images/robot.jpg)
+
+---
+
+## Código
+
+El código del robot se encuentra en la carpeta:
