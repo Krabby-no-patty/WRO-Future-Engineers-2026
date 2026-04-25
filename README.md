@@ -4,12 +4,12 @@ Autonomous self-driving car for WRO Future Engineers 2026
 ## Información del equipo
 Nombre del equipo:krabby-no-patty
 Integrantes:
--Caleb Jair Rosa Roman
--Angelica Victoria Colon Berrios 
--Reynaldo Gariel Colon Berrios
+- Caleb Jair Rosa Roman
+- Angelica Victoria Colon Berrios 
+- Reynaldo Gariel Colon Berrios
 
-Coach:Edward Gonell
-País / región:Puerto Rico
+- Coach:Edward Gonell
+- País / región:Puerto Rico
 
 ---
 
