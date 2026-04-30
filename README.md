@@ -11,7 +11,18 @@ teammates:
 - country / región:Puerto Rico
 
 ---
+## Table of Contents
 
+- 1. Mobility Management
+- Mechanical Design and Steering
+- Drivetrain and Weight Distribution
+- 2. Sensor Placement Strategy
+- 3. Software Architecture
+- Control Logic
+- 4. Engineering Decisions and Trade-offs
+- 5. Performance Limitations and Future Work
+
+---
 ## Team Introduction★
 
 We are a team of three students from Puerto Rico—two 16-year-olds and one 14-year-old—competing in the WRO Future Engineers category. This repository documents our journey of building and programming an autonomous vehicle using the LEGO SPIKE Prime system.
@@ -44,8 +55,10 @@ The sensing system is designed for real-time environmental awareness using a tri
 Our robot is programmed using LEGO SPIKE Word Blocks. We chose this environment to allow for fast debugging and visual logic tracking during our limited testing sessions.
 
 ---
-## Engineering Decisions and Trade-offs☻
+## Performance Limitations and Future Work☻
 
-The following table highlights the key decisions made to improve system performance:
-
-![Decision Table](images/IMG_6312.png)
+While our robot can now complete laps without hitting the outer walls, we are still refining the following areas:
+- 1. Speed Consistency: Resolving the intermittent slowdown in the drive motor.
+- 2. Obstacle Precision: Improving the "Logic Branches" so the robot can dodge blocks without losing its lane position.
+- 3. Parking Execution: Finalizing the timing for the reverse-parking maneuver.
+Our team remains focused on these challenges, using each failed test as a way to refine our mechanical and software design.
