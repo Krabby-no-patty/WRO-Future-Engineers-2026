@@ -37,16 +37,20 @@ Our initial prototype had a major flaw: the steering range was too narrow. The f
 
 The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE Hub and the drive motor in the back to ensure the weight is centered over the traction tires.
 - Dimensions: Width: 18.5 cm | Length: 27.5 cm | Height: 9.5 cm.
-- Current Challenge: We have observed an occasional slowdown in the drivetrain. We are currently investigating if this is caused by mechanical friction in the rear axle or a power-drop in the hub. 
+- Current Challenge: We have observed an occasional slowdown in the drivetrain. We are currently investigating if this is caused by mechanical friction in the rear axle or a power-drop in the hub.
+- Torque/Speed Reasoning:
+  We chose a gear ratio that favors torque. We realized that maintaining a consistent speed through corners is more valuable than high top speeds that lead to "drifting" into the walls.
 
 ---
 
 ## Sensor Placement Strategy◎
 
-The sensing system is designed for real-time environmental awareness using a triple ultrasonic array.
 - Configuration: We use three sensors labeled F (Front), B (Left), and D (Right).
-- Reaction Time: The front sensor is mounted at the leading edge of the robot to maximize detection distance. This gives the program more time to stop or turn when an obstacle appears.
-- Cable Management: We used a ribbon-routing strategy to secure all wires through the center of the frame. This prevents cables from interfering with the steering motor or snagging on external obstacles during a run.
+- Placement Rationale: Side sensors are placed at the widest point of the chassis to get the most accurate "distance-to-wall" readings. The front sensor is mounted low to ensure it detects obstacles before the bumper makes contact.
+- Failure-Point Mitigation: We identified that ultrasonic sensors can sometimes provide "ghost readings". Our code is being tuned to cross-reference the B and D sensors; if one gives an impossible value, the robot relies on the other to maintain its lane.
+- Wiring and Port Management
+- Organization: All ribbon cables are routed through the internal Technic frame.
+- Risk Identification: We learned that loose cables can snag on the steering rack. We used secure clips to ensure that the mechanical movement of the steering does not interfere with the electronic signals.
 
 ---
 
@@ -55,10 +59,9 @@ The sensing system is designed for real-time environmental awareness using a tri
 Our robot is programmed using LEGO SPIKE Word Blocks. We chose this environment to allow for fast debugging and visual logic tracking during our limited testing sessions.
 
 ---
-## Performance Limitations and Future Work☻
+## Performance Metrics and Future Work
 
-While our robot can now complete laps without hitting the outer walls, we are still refining the following areas:
-- 1. Speed Consistency: Resolving the intermittent slowdown in the drive motor.
-- 2. Obstacle Precision: Improving the "Logic Branches" so the robot can dodge blocks without losing its lane position.
-- 3. Parking Execution: Finalizing the timing for the reverse-parking maneuver.
-Our team remains focused on these challenges, using each failed test as a way to refine our mechanical and software design.
+We don't just guess; we measure.
+- Metric 1: After our steering rebuild, our turning radius decreased by roughly 35%, allowing us to stay 10cm further away from the outer wall during turns.
+-  Metric 2: Success rate of obstacle avoidance is currently 60%—we are working to reach 90% by refining our sensor-check frequency.
+- Future Work: Our biggest goal is solving the "slowdown" mystery and perfecting our reverse-parking logic for the final challenge.
