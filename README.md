@@ -87,5 +87,19 @@ Our robot is programmed using LEGO SPIKE Word Blocks. We chose this environment 
 
 We don't just guess; we measure.
 - Metric 1: After our steering rebuild, our turning radius decreased by roughly 35%, allowing us to stay 10cm further away from the outer wall during turns.
--  Metric 2: Success rate of obstacle avoidance is currently 60%—we are working to reach 90% by refining our sensor-check frequency.
+
 - Future Work: Our biggest goal is solving the "slowdown" mystery and perfecting our reverse-parking logic for the final challenge.
+
+## Robot problems and solutions
+
+we changed the pricipal idea, which was built for soft turns. That was a problem for our robot we needed it to make more sharp turns and go faster. But one of the moters was dameged, we decided to check puting a diferent moter on the front part of the car. now it centers and turns perfectly, we decided to change it because it would damage our proformence on the competition.
+
+- second problem:
+
+The differential was changed for a better closed one, the first ones teeth were stripped and didnt work like it used to. we changed it to a closed one with better grip and better working mechanism. It was pretty easy to fix.
+
+- third problem:
+
+Because of the program the robot cant turn enough, we are still looking for a solution but if we find one we will keep this updated!. 
+
+
