@@ -41,6 +41,30 @@ The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE 
 - Torque/Speed Reasoning:
   We chose a gear ratio that favors torque. We realized that maintaining a consistent speed through corners is more valuable than high top speeds that lead to "drifting" into the walls.
 
+<table>
+  <tr>
+    <td>
+      <img src="V-photos/IMG_1157.jpeg"
+    </td>
+    <td>
+      <img src="V-photos/IMG_1158.jpeg"
+    </td>
+    <td>
+      <img src="V-photos/IMG_1159.jpeg"
+    </td>      
+  </tr>
+   <tr>
+    <td>
+      <img src="V-photos/IMG_1160.jpeg"
+    </td>
+    <td>
+      <img src="V-photos/IMG_1161.jpeg"
+    </td>
+    <td>
+      <img src="V-photos/IMG_1162.jpeg"
+    </td>      
+  </tr> 
+</table>
 ---
 
 ## Sensor Placement Strategy◎
