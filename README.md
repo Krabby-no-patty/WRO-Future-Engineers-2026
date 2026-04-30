@@ -69,9 +69,9 @@ The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE 
 
 ## Sensor Placement Strategy◎
 
-- Configuration: We use three sensors labeled F (Front), B (Left), and D (Right).
+- Configuration: We use three sensors labeled C (Front), A (Left), and E (Right).
 - Placement Rationale: Side sensors are placed at the widest point of the chassis to get the most accurate "distance-to-wall" readings. The front sensor is mounted low to ensure it detects obstacles before the bumper makes contact.
-- Failure-Point Mitigation: We identified that ultrasonic sensors can sometimes provide "ghost readings". Our code is being tuned to cross-reference the B and D sensors; if one gives an impossible value, the robot relies on the other to maintain its lane.
+- Failure-Point Mitigation: We identified that ultrasonic sensors can sometimes provide "ghost readings". Our code is being tuned to cross-reference the A and E sensors; if one gives an impossible value, the robot relies on the other to maintain its lane.
 - Wiring and Port Management
 - Organization: All ribbon cables are routed through the internal Technic frame.
 - Risk Identification: We learned that loose cables can snag on the steering rack. We used secure clips to ensure that the mechanical movement of the steering does not interfere with the electronic signals.
