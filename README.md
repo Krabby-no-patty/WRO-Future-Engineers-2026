@@ -5,8 +5,8 @@ Autonomous self-driving car for WRO Future Engineers 2026
 team name:krabby-no-patty
 teammates:
 - Caleb Jair Rosa Roman
-- Angelica Victoria Colon Berrios 
-- Reynaldo Gariel Colon Berrios
+- Angelica Victoria Colon
+- 
 
 - country / región:Puerto Rico
 
@@ -25,7 +25,7 @@ teammates:
 ---
 ## Team Introduction★
 
-We are a team of three students from Puerto Rico—two 16-year-olds and one 14-year-old—competing in the WRO Future Engineers category. This repository documents our journey of building and programming an autonomous vehicle using the LEGO SPIKE Prime system.
+We are a team of three students from Puerto Rico—two 16-year-olds and one 15-year-old—competing in the WRO Future Engineers category. This repository documents our journey of building and programming an autonomous vehicle using the LEGO SPIKE Prime system.
 
 ---
 
