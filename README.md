@@ -104,7 +104,7 @@ Because of the program the robot cant turn enough, we are still looking for a so
 
 
 ----
-LEGO Education SPIKE Prime – Technical Information
+##LEGO Education SPIKE Prime – Technical Information
 Component
 
 Technical Information
@@ -133,7 +133,7 @@ Large and Medium Angular Motors
 -Sensors
 Color, distance, and force sensors
 -----
-Large Angular Motor
+##Large Angular Motor
 
 -Operating voltage: 5–9 V
 -No-load speed: 175 RPM ±15%
