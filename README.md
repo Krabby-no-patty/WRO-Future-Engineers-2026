@@ -109,51 +109,58 @@ Component
 
 Technical Information
 
-Hub
+-Hub
 Technic Large Hub 45601
 
-Ports
+-Ports
 6 input/output ports: A, B, C, D, E, and F
 
-Display
+-Display
 5 × 5 white LED matrix
 
-Gyroscope
+-Gyroscope
 6-axis: 3-axis accelerometer + 3-axis gyroscope
 
-Connectivity
+-Connectivity
 Bluetooth Low Energy + USB
 
-Programming
+-Programming
 Scratch-based blocks and Python/MicroPython
 
-Speaker
+-Speaker
 Built-in, up to 12-bit / 16 kHz mono
 
-Battery
+-Battery
 Rechargeable battery
 
-Number of pieces
+-Number of pieces
 528 pieces
 
-Recommended age
+-Recommended age
 10+
 
-Motors
+-Motors
 Large and Medium Angular Motors
 
-Sensors
+-Sensors
 Color, distance, and force sensors
 
 -----
 
 ##Large Angular Motor
 
--Operating voltage: 5–9 V
+Operating voltage: 5–9 V
+
 -No-load speed: 175 RPM ±15%
+
 -Speed at maximum efficiency: 135 RPM ±15%
+
 -Maximum stall torque: 25 N·cm
+
 -Built-in position sensor
+
 -Resolution: 360 counts per revolution
+
 -Sensor update rate: 100 Hz
+
 -Cable length: 250 mm
