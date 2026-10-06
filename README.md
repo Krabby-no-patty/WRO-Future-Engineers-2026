@@ -110,39 +110,51 @@ Component
 Technical Information
 
 - Hub
+
 Technic Large Hub 45601
 
 - Ports
+
 6 input/output ports: A, B, C, D, E, and F
 
 - Display
+
 5 × 5 white LED matrix
 
 - Gyroscope
+
 6-axis: 3-axis accelerometer + 3-axis gyroscope
 
 - Connectivity
+
 Bluetooth Low Energy + USB
 
 - Programming
+
 Scratch-based blocks and Python/MicroPython
 
 - Speaker
+
 Built-in, up to 12-bit / 16 kHz mono
 
 - Battery
+
 Rechargeable battery
 
 - Number of pieces
+
 528 pieces
 
 - Recommended age
+
 10+
 
 - Motors
+
 Large and Medium Angular Motors
 
 - Sensors
+
 Color, distance, and force sensors
 
 -----
