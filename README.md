@@ -108,31 +108,45 @@ Because of the program the robot cant turn enough, we are still looking for a so
 Component
 
 Technical Information
--Hub
+
+Hub
 Technic Large Hub 45601
--Ports
+
+Ports
 6 input/output ports: A, B, C, D, E, and F
--Display
+
+Display
 5 × 5 white LED matrix
--Gyroscope
+
+Gyroscope
 6-axis: 3-axis accelerometer + 3-axis gyroscope
--Connectivity
+
+Connectivity
 Bluetooth Low Energy + USB
--Programming
+
+Programming
 Scratch-based blocks and Python/MicroPython
--Speaker
+
+Speaker
 Built-in, up to 12-bit / 16 kHz mono
--Battery
+
+Battery
 Rechargeable battery
--Number of pieces
+
+Number of pieces
 528 pieces
--Recommended age
+
+Recommended age
 10+
--Motors
+
+Motors
 Large and Medium Angular Motors
--Sensors
+
+Sensors
 Color, distance, and force sensors
+
 -----
+
 ##Large Angular Motor
 
 -Operating voltage: 5–9 V
