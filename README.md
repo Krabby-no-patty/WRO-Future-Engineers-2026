@@ -102,6 +102,31 @@ The differential was changed for a better closed one, the first ones teeth were 
 
 Because of the program the robot cant turn enough, we are still looking for a solution but if we find one we will keep this updated!. 
 
+- fourth problem:
+
+if it detected the center of the line it would tend to crash to the wall.
+
+- solution:
+
+see how long it takes to go from line to line
+
+adjust tye robot/program so it goes more centered
+
+- fith problem:
+
+when we try to get to the robot to reach the center, it stops just short of it
+
+- solution:
+
+first, make the motor spin on its own for calibration and move to the center position
+
+- center
+
+99
+
+- sixth problem:
+
+the idea we had for adjusting the center of the curve ran into a complication because it kept slipping- it lacked the necessary support
 
 ----
 ##LEGO Education SPIKE Prime – Technical Information
