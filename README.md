@@ -32,7 +32,7 @@ We are a team of three students from Puerto Rico—two 16-year-olds and one 15-y
 ## Mechanical Design and Steering♡
 
 Our initial prototype had a major flaw: the steering range was too narrow. The front wheels would hit the Technic beams before reaching the angle needed for sharp turns. To fix this, we redesigned the front assembly to be more open. By trimming the frame and adjusting the gear linkage, we gained the "turn-headroom" necessary to avoid wall collisions. 
-
+a
 - Drivetrain and Weight Distribution:
 
 The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE Hub and the drive motor in the back to ensure the weight is centered over the traction tires.
@@ -103,3 +103,43 @@ The differential was changed for a better closed one, the first ones teeth were 
 Because of the program the robot cant turn enough, we are still looking for a solution but if we find one we will keep this updated!. 
 
 
+----
+LEGO Education SPIKE Prime – Technical Information
+Component
+
+Technical Information
+-Hub
+Technic Large Hub 45601
+-Ports
+6 input/output ports: A, B, C, D, E, and F
+-Display
+5 × 5 white LED matrix
+-Gyroscope
+6-axis: 3-axis accelerometer + 3-axis gyroscope
+-Connectivity
+Bluetooth Low Energy + USB
+-Programming
+Scratch-based blocks and Python/MicroPython
+-Speaker
+Built-in, up to 12-bit / 16 kHz mono
+-Battery
+Rechargeable battery
+-Number of pieces
+528 pieces
+-Recommended age
+10+
+-Motors
+Large and Medium Angular Motors
+-Sensors
+Color, distance, and force sensors
+-----
+Large Angular Motor
+
+-Operating voltage: 5–9 V
+-No-load speed: 175 RPM ±15%
+-Speed at maximum efficiency: 135 RPM ±15%
+-Maximum stall torque: 25 N·cm
+-Built-in position sensor
+-Resolution: 360 counts per revolution
+-Sensor update rate: 100 Hz
+-Cable length: 250 mm
