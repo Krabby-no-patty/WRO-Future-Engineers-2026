@@ -129,7 +129,7 @@ first, make the motor spin on its own for calibration and move to the center pos
 the idea we had for adjusting the center of the curve ran into a complication because it kept slipping- it lacked the necessary support
 
 ----
-##LEGO Education SPIKE Prime – Technical Information
+## LEGO Education SPIKE Prime – Technical Information
 Component
 
 Technical Information
@@ -184,7 +184,7 @@ Color, distance, and force sensors
 
 -----
 
-##Large Angular Motor
+## Large Angular Motor
 
 Operating voltage: 5–9 V
 
