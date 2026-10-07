@@ -92,7 +92,7 @@ We don't just guess; we measure.
 
 ## Robot problems and solutions
 
-we changed the pricipal idea, which was built for soft turns. That was a problem for our robot we needed it to make more sharp turns and go faster. But one of the moters was dameged, we decided to check puting a diferent moter on the front part of the car. now it centers and turns perfectly, we decided to change it because it would damage our proformence on the competition.
+we changed the pricipal idea, which was built for soft turns. That was a problem for our robot we needed it to make more sharp turns and go faster. But one of the moters was dameged, we decided to check puting a diferent moter on the front part of the car. now it centers and turns perfectly, we decided to change it because it would damage our proformence on future competitions.
 
 - second problem:
 
