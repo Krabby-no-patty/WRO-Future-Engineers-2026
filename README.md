@@ -56,16 +56,7 @@ teammates:
 - country / región:Puerto Rico
 
 ---
-## Table of Contents
 
-- 1. Mobility Management
-- Mechanical Design and Steering
-- Drivetrain and Weight Distribution
-- 2. Sensor Placement Strategy
-- 3. Software Architecture
-- Control Logic
-- 4. Engineering Decisions and Trade-offs
-- 5. Performance Limitations and Future Work
 
 ---
 ## Team Introduction★
