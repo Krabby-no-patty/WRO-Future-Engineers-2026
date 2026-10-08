@@ -65,7 +65,7 @@ We are a team of three students from Puerto Rico—two 16-year-olds and one 15-y
 
 ---
 
-## Mechanical Design and Steering♡
+## Mechanical Design and Steering♡ (prototype #1)
 
 Our initial prototype had a major flaw: the steering range was too narrow. The front wheels would hit the Technic beams before reaching the angle needed for sharp turns. To fix this, we redesigned the front assembly to be more open. By trimming the frame and adjusting the gear linkage, we gained the "turn-headroom" necessary to avoid wall collisions. 
 a
