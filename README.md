@@ -1,6 +1,51 @@
 # WRO-Future-Engineers-2026
 Autonomous self-driving car for WRO Future Engineers 2026
+--
+## Table of Contents
 
+### Team & Documentation
+
+| Section | Links |
+|---|---|
+| Team Introduction | [Team Introduction](#team-introduction) |
+| Group Information | [Group Information](#group-name) |
+
+### Mechanical Design
+
+| Section | Links |
+|---|---|
+| Mechanical Design & Steering | [Mechanical Design & Steering](#mechanical-design-and-steering) |
+| Drivetrain & Weight Distribution | [Drivetrain & Weight Distribution](#drivetrain-and-weight-distribution) |
+| Robot Problems & Solutions | [Robot Problems & Solutions](#robot-problems-and-solutions) |
+
+### Sensors & Electronics
+
+| Section | Links |
+|---|---|
+| Sensor Placement Strategy | [Sensor Placement Strategy](#sensor-placement-strategy) |
+| Wiring & Port Management | [Wiring & Port Management](#wiring-and-port-management) |
+| LEGO SPIKE Prime Technical Information | [Technical Information](#lego-education-spike-prime--technical-information) |
+| Large Angular Motor | [Large Angular Motor](#large-angular-motor) |
+
+### Software & Performance
+
+| Section | Links |
+|---|---|
+| Software Architecture | [Software Architecture](#software-architecture) |
+| Control Logic | [Control Logic](#control-logic) |
+| Engineering Decisions & Trade-offs | [Engineering Decisions & Trade-offs](#engineering-decisions-and-trade-offs) |
+| Performance & Future Work | [Performance & Future Work](#performance-metrics-and-future-work) |
+
+### Photos & Development
+
+| Section | Links |
+|---|---|
+| T-Photos | [T-Photos](./T-photos/) |
+| V-Photos | [V-Photos](./V-photos/) |
+| Mechanical Design File | [Mobility](./mobility.md%20(Diseño%20mecánico)) |
+
+
+--
 ## Group name♥︎
 team name:krabby-no-patty
 teammates:
