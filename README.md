@@ -108,7 +108,7 @@ The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE 
     <td align="center" width="33%">
       <strong>1. Top View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20top.JPG" width="220" alt="Robot top view"/><br/><br/>
-      <em>Shows the overall chassis layout, the SPIKE Prime Hub, and how the robot's main components are arranged.</em>
+      <em>.</em>
     </td>
     <td align="center" width="33%">
       <strong>2. Front View</strong><br/><br/>
