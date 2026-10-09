@@ -108,34 +108,34 @@ The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE 
     <td align="center" width="33%">
       <strong>1. Top View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20top.JPG" width="220" alt="Robot top view"/><br/><br/>
-      <em>.</em>
+      <em></em>
     </td>
     <td align="center" width="33%">
       <strong>2. Front View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20front.JPG" width="220" alt="Robot front view"/><br/><br/>
-      <em>Highlights the front steering assembly and the placement of the front distance sensor.</em>
+      <em></em>
     </td>
     <td align="center" width="33%">
       <strong>3. Left View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20left.JPG" width="220" alt="Robot left view"/><br/><br/>
-      <em>Shows the left side of the chassis, wheel alignment, and side sensor positioning.</em>
+      <em></em>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <strong>4. Bottom View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20bottom.JPG" width="220" alt="Robot bottom view"/><br/><br/>
-      <em>Reveals the underside of the chassis and the mechanical arrangement supporting the wheels and drivetrain.</em>
+      <em></em>
     </td>
     <td align="center" width="33%">
       <strong>5. Back View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20back.JPG" width="220" alt="Robot back view"/><br/><br/>
-      <em>Shows the rear drivetrain area, motor arrangement, and the structure supporting the back wheels.</em>
+      <em></em>
     </td>
     <td align="center" width="33%">
       <strong>6. Right View</strong><br/><br/>
       <img src="V-photos/Version%202/Robot%20right.JPG" width="220" alt="Robot right view"/><br/><br/>
-      <em>Highlights the right side of the robot, including its wheel placement, chassis structure, and side sensor.</em>
+      <em></em>
     </td>
   </tr>
 </table>
