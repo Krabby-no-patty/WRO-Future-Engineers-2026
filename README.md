@@ -67,8 +67,8 @@ We are a team of three students from Puerto Rico—two 16-year-olds and one 15-y
 
 ## Mechanical Design and Steering♡ (prototype #1)
 
-Our initial prototype had a major flaw: the steering range was too narrow. The front wheels would hit the Technic beams before reaching the angle needed for sharp turns. To fix this, we redesigned the front assembly to be more open. By trimming the frame and adjusting the gear linkage, we gained the "turn-headroom" necessary to avoid wall collisions. 
-a
+Our initial prototype had a major flaw: the steering range was too narrow. The front wheels would hit the Technic beams before reaching the angle needed for sharp turns. To fix this, we redesigned the front assembly to be more open. By trimming the frame and adjust in the gear linkage, we gained the "turn-headroom" necessary to avoid wall collisions. 
+
 - Drivetrain and Weight Distribution:
 
 The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE Hub and the drive motor in the back to ensure the weight is centered over the traction tires.
@@ -168,7 +168,8 @@ We don't just guess; we measure.
 
 ## Robot problems and solutions
 
-we changed the pricipal idea, which was built for soft turns. That was a problem for our robot we needed it to make more sharp turns and go faster. But one of the moters was dameged, we decided to check puting a diferent moter on the front part of the car. now it centers and turns perfectly, we decided to change it because it would damage our proformence on future competitions.
+we changed the pricipal idea, which was built for soft turns. That was a problem for our robot we needed it to make more sharp turns and go faster. But one of the moters was dameged, we decided to check puting a diferent moter on the front part of the car. 
+now it centers and turns perfectly, we decided to change it because it would damage our proformence on future competitions.
 
 - second problem:
 
