@@ -102,42 +102,7 @@ The robot uses a Rear-Wheel Drive (RWD) configuration. We placed the LEGO SPIKE 
   </tr> 
 </table>
 ---
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>1. Top View</strong><br/><br/>
-      <img src="V-photos/IMG_1157.jpeg"/><br/><br/>
-      <em></em>
-    </td>
-    <td align="center" width="33%">
-      <strong>2. Front View</strong><br/><br/>
-      <img src="V-photos/Version%202/Robot%20front.JPG" width="220" alt="Robot front view"/><br/><br/>
-      <em></em>
-    </td>
-    <td align="center" width="33%">
-      <strong>3. Left View</strong><br/><br/>
-      <img src="V-photos/Version%202/Robot%20left.JPG" width="220" alt="Robot left view"/><br/><br/>
-      <em></em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <strong>4. Bottom View</strong><br/><br/>
-      <img src="V-photos/Version%202/Robot%20bottom.JPG" width="220" alt="Robot bottom view"/><br/><br/>
-      <em></em>
-    </td>
-    <td align="center" width="33%">
-      <strong>5. Back View</strong><br/><br/>
-      <img src="V-photos/Version%202/Robot%20back.JPG" width="220" alt="Robot back view"/><br/><br/>
-      <em></em>
-    </td>
-    <td align="center" width="33%">
-      <strong>6. Right View</strong><br/><br/>
-      <img src="V-photos/Version%202/Robot%20right.JPG" width="220" alt="Robot right view"/><br/><br/>
-      <em></em>
-    </td>
-  </tr>
-</table>
+
 ___
 <table>
   <tr>
