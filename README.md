@@ -8,7 +8,7 @@ Autonomous self-driving car for WRO Future Engineers 2026
 | Section | Links |
 |---|---|
 | Team Introduction | [Team Introduction](#team-introduction) |
-| Group Information | [Group Information](#group-name) |
+| Group Information | [Group name](#group-name) |
 
 ### Mechanical Design
 
